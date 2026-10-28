@@ -1,0 +1,12 @@
+# chrome store metadata
+_metadata/
+
+# build artifacts
+*.zip
+
+# os junk
+Thumbs.db
+.DS_Store
+
+# logs
+*.log
