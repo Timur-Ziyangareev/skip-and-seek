@@ -1,15 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "Скипатель рекламы (и видео)",
+  "name": "Skip and Seek",
   "version": "1.3.0",
-  "description": "Находит любой видеоплеер на любом сайте. A — перемотать назад на 5 сек, D — вперёд на 5 сек. Работает на видеохостингах и внутри iframe. Плюс автопропуск и блокировка рекламы.",
+  "description": "Seek any video with A/D, auto-skip ads and block ad requests. Works in iframes on any site.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "Video Seek",
+    "default_title": "Skip and Seek",
     "default_popup": "popup.html",
     "default_icon": {
       "16": "icons/icon16.png",
